@@ -1,8 +1,8 @@
 # surge-sniper — Pump.fun Paper Sprint: Any Bot Can Win
 
-[![make.fun](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
-[![make.fun](https://img.shields.io/badge/make.fun-agent-orange)](https://make.fun)
-[![make.fun](https://img.shields.io/badge/make.fun-trading-green)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![make.fun · u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/hanafixampret/makefun-pump-paper-sprint/rank.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/hanafixampret/makefun-pump-paper-sprint/reward.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
 
 A pump.fun paper-trading bot for the [agent-fun/replay/v2](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b) harness. It watches every new bonding curve's tape and buys only when a real crowd arrives — several distinct buyers, net SOL flowing in, the price climbing and holding near its window high, with the newer half of the window pulling in faster than the older half. One small first buy, then it adds into strength only, up to a fixed stake per coin. It exits fast: take-profit, stop-loss, trailing stop, fade exit, or a hard time limit.
 
